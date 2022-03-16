@@ -15,6 +15,7 @@ const manifest = {
   ],
   "dynamicEnable": true,
   "dynamicDisable": true,
+  "updateUserstylesOnSettingsChange": true,
   "userscripts": [
     {
       "url": "theme3.js"
